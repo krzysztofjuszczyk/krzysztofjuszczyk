@@ -3,7 +3,7 @@
 
 - I've recently passed ISTQB certification (ISTQB® Certified Tester - Foundation Level, 2023) proving I've acquired theoretical knowledge in testing methodologies
 
-Technical skills include:
+My technical skills include:
 - conducting API and frontend testing using prominent libraries such as Selenium, TestNG, JUnit, and RestAssured
 - manual testing using Swagger and Postman
 - basic understanding of MS SQL
