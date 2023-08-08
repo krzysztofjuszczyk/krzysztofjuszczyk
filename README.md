@@ -1,7 +1,7 @@
 👋 Hi, I’m Krzysztof Juszczyk. [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/krzysztof-juszczyk)
 - I have completed Quality Assurance post-graduate studies, with a focus on test automation using JAVA, and I am eager to transition into a career in IT/QA.
 
-- I've recently passed ISTQB certification (ISTQB® Certified Tester - Foundation Level, 2023) proving I've acquired theoretical knowledge in testing methodologies
+- I've recently passed ISTQB certification (ISTQB® Certified Tester - Foundation Level, 2023, 87%) proving I've acquired theoretical knowledge in testing methodologies
 
 My technical skills include:
 - conducting API and frontend testing using prominent libraries such as Selenium, TestNG, JUnit, and RestAssured
@@ -13,6 +13,11 @@ My technical skills include:
 - well-versed in SCRUM and Agile methodologies 
 
 📫 How to reach me: kontakt@krzysztofjuszczyk.pl
+
+My sample repositories showcasing:
+- [REST API + JSON](https://github.com/krzysztofjuszczyk/Software-Engineer-API) : using public REST API, parsing JSONs to objects using Gson library, various tasks
+- [REST API testing](https://github.com/krzysztofjuszczyk/rest-api-tests-Krzysztof-Juszczyk): testing a PESEL number generator
+- [Frontend application testing](https://github.com/krzysztofjuszczyk/selenium_endofterm): Java + Selenium, utilising Page Object Pattern principles
 
 <!---
 krzysztofjuszczyk/krzysztofjuszczyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
